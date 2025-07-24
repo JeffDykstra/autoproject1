@@ -4,3 +4,5 @@ documentation script2
 documentation newfunctions
 
 This file contains documentation for the project    
+
+testing completed document new function
