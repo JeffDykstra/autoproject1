@@ -1,5 +1,6 @@
 'testv6'
 'new line'
+'test123'
 function Get-DirectoryReport
 {
     param(
