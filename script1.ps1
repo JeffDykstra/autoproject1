@@ -1,4 +1,4 @@
-'testv6'
+'testv7'
 'new line'
 'test123'
 function Get-DirectoryReport
